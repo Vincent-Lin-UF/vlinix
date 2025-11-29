@@ -5,6 +5,7 @@ authors = ["Vincent Lin <vincentlin1617@gmail.com>"]
 edition = "2024"
 
 [dependencies]
+bootloader = "0.9"
 
 # the profile used for `cargo build`
 [profile.dev] 
